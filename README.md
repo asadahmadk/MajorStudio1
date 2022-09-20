@@ -23,9 +23,13 @@ Observation: Almost 88% of the data points are spread between 40-60%
 **Code Prototype**
 The data is available from 2004-19, using the filter the use can switch the years and check the GDP share. There is not a significant rise over the course of fifteen years
 
+
 **Pseudo Code**
 1. Data will be imported using the exposed API from https://unstats.un.org/sdgs/dataportal for the indicator 10.4.1.
 2. For each row: GeoAreaCode, GeoAreaName, year and its labour share in GDP will be parsed. (See record table tab in the excel)
+
+<img width="1292" alt="Screen Shot 2022-09-20 at 10 17 31 AM" src="https://user-images.githubusercontent.com/109235609/191282670-f2faaf4f-2d5c-49ad-8622-803d2a3d5e04.png">
+
 3. The code will calculate the number of rows and a loop will start until all the data is recorded.
 4. Now data will be distributed in ten classes using the following distribution table. (See pivot tab in the excel)
 
