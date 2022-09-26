@@ -30,7 +30,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 862,
   "GeoAreaName": "Venezuela (Bolivarian Republic of)",
-  "Value": 10.2
+  "Value": 10.2,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -40,7 +41,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 762,
   "GeoAreaName": "Tajikistan",
-  "Value": 21.2
+  "Value": 21.2,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -50,7 +52,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 634,
   "GeoAreaName": "Qatar",
-  "Value": 25.7
+  "Value": 25.7,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -60,7 +63,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 266,
   "GeoAreaName": "Gabon",
-  "Value": 28.2
+  "Value": 28.2,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -70,7 +74,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 368,
   "GeoAreaName": "Iraq",
-  "Value": 28.2
+  "Value": 28.2,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -80,7 +85,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 598,
   "GeoAreaName": "Papua New Guinea",
-  "Value": 29.6
+  "Value": 29.6,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -90,7 +96,9 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 48,
   "GeoAreaName": "Bahrain",
-  "Value": 30.3
+  "Value": 30.3,
+  "Height": 30,
+  "Column11": 2.9411764705882355
  },
  {
   "Goal": 10,
@@ -100,7 +108,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 682,
   "GeoAreaName": "Saudi Arabia",
-  "Value": 30.8
+  "Value": 30.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -110,7 +119,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 446,
   "GeoAreaName": "China, Macao Special Administrative Region",
-  "Value": 31.2
+  "Value": 31.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -120,7 +130,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 108,
   "GeoAreaName": "Burundi",
-  "Value": 33.1
+  "Value": 33.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -130,7 +141,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 484,
   "GeoAreaName": "Mexico",
-  "Value": 33.4
+  "Value": 33.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -140,7 +152,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 384,
   "GeoAreaName": "Côte d'Ivoire",
-  "Value": 33.6
+  "Value": 33.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -150,7 +163,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 562,
   "GeoAreaName": "Niger",
-  "Value": 33.7
+  "Value": 33.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -160,7 +174,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 417,
   "GeoAreaName": "Kyrgyzstan",
-  "Value": 34
+  "Value": 34,
+  "Height": 5
  },
  {
   "Goal": 10,
@@ -170,7 +185,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 591,
   "GeoAreaName": "Panama",
-  "Value": 34.1
+  "Value": 34.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -180,7 +196,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 372,
   "GeoAreaName": "Ireland",
-  "Value": 34.6
+  "Value": 34.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -190,7 +207,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 13,
   "GeoAreaName": "Central America",
-  "Value": 35.7
+  "Value": 35.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -200,7 +218,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 860,
   "GeoAreaName": "Uzbekistan",
-  "Value": 35.8
+  "Value": 35.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -210,7 +229,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 485,
   "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
-  "Value": 35.9
+  "Value": 35.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -220,7 +240,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 120,
   "GeoAreaName": "Cameroon",
-  "Value": 36.6
+  "Value": 36.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -230,7 +251,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 784,
   "GeoAreaName": "United Arab Emirates",
-  "Value": 36.7
+  "Value": 36.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -240,7 +262,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 145,
   "GeoAreaName": "Western Asia",
-  "Value": 37.4
+  "Value": 37.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -250,7 +273,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 404,
   "GeoAreaName": "Kenya",
-  "Value": 37.7
+  "Value": 37.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -260,7 +284,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 414,
   "GeoAreaName": "Kuwait",
-  "Value": 38
+  "Value": 38,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -270,7 +295,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 364,
   "GeoAreaName": "Iran (Islamic Republic of)",
-  "Value": 38.3
+  "Value": 38.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -280,7 +306,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 54,
   "GeoAreaName": "Melanesia",
-  "Value": 38.4
+  "Value": 38.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -290,7 +317,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 496,
   "GeoAreaName": "Mongolia",
-  "Value": 38.4
+  "Value": 38.4,
+  "Height": 45
  },
  {
   "Goal": 10,
@@ -300,7 +328,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 143,
   "GeoAreaName": "Central Asia",
-  "Value": 38.7
+  "Value": 38.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -310,7 +339,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 887,
   "GeoAreaName": "Yemen",
-  "Value": 38.8
+  "Value": 38.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -320,7 +350,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 747,
   "GeoAreaName": "Northern Africa and Western Asia",
-  "Value": 38.9
+  "Value": 38.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -330,7 +361,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 144,
   "GeoAreaName": "Sri Lanka",
-  "Value": 38.9
+  "Value": 38.9,
+  "Height": 95
  },
  {
   "Goal": 10,
@@ -340,7 +372,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 760,
   "GeoAreaName": "Syrian Arab Republic",
-  "Value": 38.9
+  "Value": 38.9,
+  "Height": 100
  },
  {
   "Goal": 10,
@@ -350,7 +383,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 792,
   "GeoAreaName": "Türkiye",
-  "Value": 39.2
+  "Value": 39.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -360,7 +394,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 768,
   "GeoAreaName": "Togo",
-  "Value": 39.3
+  "Value": 39.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -370,7 +405,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 116,
   "GeoAreaName": "Cambodia",
-  "Value": 39.4
+  "Value": 39.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -380,7 +416,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 408,
   "GeoAreaName": "Democratic People's Republic of Korea",
-  "Value": 39.5
+  "Value": 39.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -390,7 +427,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 180,
   "GeoAreaName": "Democratic Republic of the Congo",
-  "Value": 39.8
+  "Value": 39.8,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -400,7 +438,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 704,
   "GeoAreaName": "Viet Nam",
-  "Value": 39.8
+  "Value": 39.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -410,7 +449,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 360,
   "GeoAreaName": "Indonesia",
-  "Value": 39.9
+  "Value": 39.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -420,7 +460,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 729,
   "GeoAreaName": "Sudan",
-  "Value": 39.9
+  "Value": 39.9,
+  "Height": 100
  },
  {
   "Goal": 10,
@@ -430,7 +471,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 398,
   "GeoAreaName": "Kazakhstan",
-  "Value": 40
+  "Value": 40,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -440,7 +482,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 454,
   "GeoAreaName": "Malawi",
-  "Value": 40
+  "Value": 40,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -450,7 +493,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 646,
   "GeoAreaName": "Rwanda",
-  "Value": 40.1
+  "Value": 40.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -460,7 +504,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 626,
   "GeoAreaName": "Timor-Leste",
-  "Value": 40.1
+  "Value": 40.1,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -470,7 +515,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 882,
   "GeoAreaName": "Samoa",
-  "Value": 40.2
+  "Value": 40.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -480,7 +526,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 430,
   "GeoAreaName": "Liberia",
-  "Value": 40.3
+  "Value": 40.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -490,7 +537,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 686,
   "GeoAreaName": "Senegal",
-  "Value": 40.3
+  "Value": 40.3,
+  "Height": 35
  },
  {
   "Goal": 10,
@@ -500,7 +548,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 148,
   "GeoAreaName": "Chad",
-  "Value": 40.4
+  "Value": 40.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -510,7 +559,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 748,
   "GeoAreaName": "Eswatini",
-  "Value": 40.4
+  "Value": 40.4,
+  "Height": 45
  },
  {
   "Goal": 10,
@@ -520,7 +570,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 90,
   "GeoAreaName": "Solomon Islands",
-  "Value": 40.4
+  "Value": 40.4,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -530,7 +581,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 4,
   "GeoAreaName": "Afghanistan",
-  "Value": 40.8
+  "Value": 40.8,
+  "Height": 55
  },
  {
   "Goal": 10,
@@ -540,7 +592,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 262,
   "GeoAreaName": "Djibouti",
-  "Value": 40.8
+  "Value": 40.8,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -550,7 +603,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 466,
   "GeoAreaName": "Mali",
-  "Value": 40.9
+  "Value": 40.9,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -560,7 +614,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 135,
   "GeoAreaName": "Caucasus and Central Asia",
-  "Value": 41
+  "Value": 41,
+  "Height": 5
  },
  {
   "Goal": 10,
@@ -570,7 +625,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 50,
   "GeoAreaName": "Bangladesh",
-  "Value": 41.1
+  "Value": 41.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -580,7 +636,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 800,
   "GeoAreaName": "Uganda",
-  "Value": 41.1
+  "Value": 41.1,
+  "Height": 15
  },
  {
   "Goal": 10,
@@ -590,7 +647,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 706,
   "GeoAreaName": "Somalia",
-  "Value": 41.2
+  "Value": 41.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -600,7 +658,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 64,
   "GeoAreaName": "Bhutan",
-  "Value": 41.3
+  "Value": 41.3,
+  "Height": 25
  },
  {
   "Goal": 10,
@@ -610,7 +669,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 232,
   "GeoAreaName": "Eritrea",
-  "Value": 41.3
+  "Value": 41.3,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -620,7 +680,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 17,
   "GeoAreaName": "Middle Africa",
-  "Value": 41.3
+  "Value": 41.3,
+  "Height": 75
  },
  {
   "Goal": 10,
@@ -630,7 +691,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 450,
   "GeoAreaName": "Madagascar",
-  "Value": 41.4
+  "Value": 41.4,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -640,7 +702,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 543,
   "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
-  "Value": 41.4
+  "Value": 41.4,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -650,7 +713,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 586,
   "GeoAreaName": "Pakistan",
-  "Value": 41.5
+  "Value": 41.5,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -660,7 +724,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 732,
   "GeoAreaName": "Western Sahara",
-  "Value": 41.5
+  "Value": 41.5,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -670,7 +735,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 132,
   "GeoAreaName": "Cabo Verde",
-  "Value": 41.7
+  "Value": 41.7,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -680,7 +746,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 624,
   "GeoAreaName": "Guinea-Bissau",
-  "Value": 41.7
+  "Value": 41.7,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -690,7 +757,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 478,
   "GeoAreaName": "Mauritania",
-  "Value": 41.7
+  "Value": 41.7,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -700,7 +768,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 174,
   "GeoAreaName": "Comoros",
-  "Value": 41.8
+  "Value": 41.8,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -710,7 +779,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 231,
   "GeoAreaName": "Ethiopia",
-  "Value": 41.8
+  "Value": 41.8,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -720,7 +790,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 524,
   "GeoAreaName": "Nepal",
-  "Value": 41.8
+  "Value": 41.8,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -730,7 +801,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 288,
   "GeoAreaName": "Ghana",
-  "Value": 41.9
+  "Value": 41.9,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -740,7 +812,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 432,
   "GeoAreaName": "Landlocked developing countries (LLDCs)",
-  "Value": 42
+  "Value": 42,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -750,7 +823,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 324,
   "GeoAreaName": "Guinea",
-  "Value": 42.1
+  "Value": 42.1,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -760,7 +834,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 694,
   "GeoAreaName": "Sierra Leone",
-  "Value": 42.1
+  "Value": 42.1,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -770,7 +845,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 270,
   "GeoAreaName": "Gambia",
-  "Value": 42.2
+  "Value": 42.2,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -780,7 +856,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 12,
   "GeoAreaName": "Algeria",
-  "Value": 42.3
+  "Value": 42.3,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -790,7 +867,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 728,
   "GeoAreaName": "South Sudan",
-  "Value": 42.3
+  "Value": 42.3,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -800,7 +878,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 418,
   "GeoAreaName": "Lao People's Democratic Republic",
-  "Value": 42.4
+  "Value": 42.4,
+  "Height": 25
  },
  {
   "Goal": 10,
@@ -810,7 +889,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 678,
   "GeoAreaName": "Sao Tome and Principe",
-  "Value": 42.4
+  "Value": 42.4,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -820,7 +900,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 716,
   "GeoAreaName": "Zimbabwe",
-  "Value": 42.4
+  "Value": 42.4,
+  "Height": 75
  },
  {
   "Goal": 10,
@@ -830,7 +911,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 608,
   "GeoAreaName": "Philippines",
-  "Value": 42.5
+  "Value": 42.5,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -840,7 +922,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 35,
   "GeoAreaName": "South-Eastern Asia",
-  "Value": 42.5
+  "Value": 42.5,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -850,7 +933,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 140,
   "GeoAreaName": "Central African Republic",
-  "Value": 42.6
+  "Value": 42.6,
+  "Height": 15
  },
  {
   "Goal": 10,
@@ -860,7 +944,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 178,
   "GeoAreaName": "Congo",
-  "Value": 42.6
+  "Value": 42.6,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -870,7 +955,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 192,
   "GeoAreaName": "Cuba",
-  "Value": 42.6
+  "Value": 42.6,
+  "Height": 45
  },
  {
   "Goal": 10,
@@ -880,7 +966,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 275,
   "GeoAreaName": "State of Palestine",
-  "Value": 42.6
+  "Value": 42.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -890,18 +977,10 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 818,
   "GeoAreaName": "Egypt",
-  "Value": 42.7
+  "Value": 42.7,
+  "Height": 40
  },
- {
-  "Goal": 10,
-  "Target": 10.4,
-  "Indicator": "10.4.1",
-  "SeriesCode": "SL_EMP_GTOTL",
-  "SeriesDescription": "Labour share of GDP (%)",
-  "GeoAreaCode": 199,
-  "GeoAreaName": "Least Developed Countries (LDCs)",
-  "Value": 42.9
- },
+
  {
   "Goal": 10,
   "Target": 10.4,
@@ -910,7 +989,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 15,
   "GeoAreaName": "Northern Africa",
-  "Value": 43
+  "Value": 43,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -920,7 +1000,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 458,
   "GeoAreaName": "Malaysia",
-  "Value": 43.2
+  "Value": 43.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -930,7 +1011,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 746,
   "GeoAreaName": "Northern Africa (exc. Sudan)",
-  "Value": 43.2
+  "Value": 43.2,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -940,7 +1022,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 14,
   "GeoAreaName": "Eastern Africa",
-  "Value": 43.5
+  "Value": 43.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -950,7 +1033,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 70,
   "GeoAreaName": "Bosnia and Herzegovina",
-  "Value": 43.8
+  "Value": 43.8,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -960,7 +1044,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 462,
   "GeoAreaName": "Maldives",
-  "Value": 43.8
+  "Value": 43.8,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -970,7 +1055,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 504,
   "GeoAreaName": "Morocco",
-  "Value": 43.8
+  "Value": 43.8,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -980,7 +1066,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 498,
   "GeoAreaName": "Republic of Moldova",
-  "Value": 43.8
+  "Value": 43.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -990,7 +1077,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 642,
   "GeoAreaName": "Romania",
-  "Value": 43.9
+  "Value": 43.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1000,7 +1088,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 242,
   "GeoAreaName": "Fiji",
-  "Value": 44.1
+  "Value": 44.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1010,7 +1099,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 807,
   "GeoAreaName": "North Macedonia",
-  "Value": 44.1
+  "Value": 44.1,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1020,7 +1110,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 400,
   "GeoAreaName": "Jordan",
-  "Value": 44.6
+  "Value": 44.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1030,7 +1121,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 24,
   "GeoAreaName": "Angola",
-  "Value": 45.1
+  "Value": 45.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1040,7 +1132,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 84,
   "GeoAreaName": "Belize",
-  "Value": 45.2
+  "Value": 45.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1050,7 +1143,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 204,
   "GeoAreaName": "Benin",
-  "Value": 45.3
+  "Value": 45.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1060,7 +1154,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 222,
   "GeoAreaName": "El Salvador",
-  "Value": 45.6
+  "Value": 45.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1070,7 +1165,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 764,
   "GeoAreaName": "Thailand",
-  "Value": 45.7
+  "Value": 45.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1080,7 +1176,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 332,
   "GeoAreaName": "Haiti",
-  "Value": 46.1
+  "Value": 46.1,
+  "Height": 5
  },
  {
   "Goal": 10,
@@ -1090,7 +1187,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 600,
   "GeoAreaName": "Paraguay",
-  "Value": 46.1
+  "Value": 46.1,
+  "Height": 15
  },
  {
   "Goal": 10,
@@ -1100,7 +1198,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 776,
   "GeoAreaName": "Tonga",
-  "Value": 46.2
+  "Value": 46.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1110,7 +1209,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 854,
   "GeoAreaName": "Burkina Faso",
-  "Value": 46.4
+  "Value": 46.4,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1120,7 +1220,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 499,
   "GeoAreaName": "Montenegro",
-  "Value": 46.4
+  "Value": 46.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -1130,7 +1231,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 104,
   "GeoAreaName": "Myanmar",
-  "Value": 46.4
+  "Value": 46.4,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1140,7 +1242,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 604,
   "GeoAreaName": "Peru",
-  "Value": 46.4
+  "Value": 46.4,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1150,7 +1253,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 51,
   "GeoAreaName": "Armenia",
-  "Value": 46.5
+  "Value": 46.5,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1160,7 +1264,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 434,
   "GeoAreaName": "Libya",
-  "Value": 46.5
+  "Value": 46.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1170,7 +1275,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 8,
   "GeoAreaName": "Albania",
-  "Value": 46.7
+  "Value": 46.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1180,7 +1286,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 320,
   "GeoAreaName": "Guatemala",
-  "Value": 46.8
+  "Value": 46.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1190,7 +1297,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 795,
   "GeoAreaName": "Turkmenistan",
-  "Value": 47
+  "Value": 47,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1200,7 +1308,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 480,
   "GeoAreaName": "Mauritius",
-  "Value": 47.1
+  "Value": 47.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1210,7 +1319,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 214,
   "GeoAreaName": "Dominican Republic",
-  "Value": 47.3
+  "Value": 47.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1220,7 +1330,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 72,
   "GeoAreaName": "Botswana",
-  "Value": 47.6
+  "Value": 47.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1230,7 +1341,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 788,
   "GeoAreaName": "Tunisia",
-  "Value": 47.7
+  "Value": 47.7,
+  "Height": 35
  },
  {
   "Goal": 10,
@@ -1240,7 +1352,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 894,
   "GeoAreaName": "Zambia",
-  "Value": 47.7
+  "Value": 47.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1250,7 +1363,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 2,
   "GeoAreaName": "Africa",
-  "Value": 47.8
+  "Value": 47.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1260,7 +1374,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 31,
   "GeoAreaName": "Azerbaijan",
-  "Value": 48.5
+  "Value": 48.5,
+  "Height": 25
  },
  {
   "Goal": 10,
@@ -1270,7 +1385,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 328,
   "GeoAreaName": "Guyana",
-  "Value": 48.5
+  "Value": 48.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1280,7 +1396,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 515,
   "GeoAreaName": "Developing regions",
-  "Value": 48.6
+  "Value": 48.6,
+  "Height": 75
  },
  {
   "Goal": 10,
@@ -1290,7 +1407,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 348,
   "GeoAreaName": "Hungary",
-  "Value": 48.9
+  "Value": 48.9,
+  "Height": 45
  },
  {
   "Goal": 10,
@@ -1300,7 +1418,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 722,
   "GeoAreaName": "Small island developing States (SIDS)",
-  "Value": 48.9
+  "Value": 48.9,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1310,7 +1429,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 558,
   "GeoAreaName": "Nicaragua",
-  "Value": 49
+  "Value": 49,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1320,7 +1440,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 419,
   "GeoAreaName": "Latin America and the Caribbean",
-  "Value": 49.1
+  "Value": 49.1,
+  "Height": 15
  },
  {
   "Goal": 10,
@@ -1330,7 +1451,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 422,
   "GeoAreaName": "Lebanon",
-  "Value": 49.1
+  "Value": 49.1,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1340,7 +1462,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 142,
   "GeoAreaName": "Asia",
-  "Value": 49.3
+  "Value": 49.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1350,7 +1473,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 616,
   "GeoAreaName": "Poland",
-  "Value": 49.3
+  "Value": 49.3,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1360,7 +1484,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 688,
   "GeoAreaName": "Serbia",
-  "Value": 49.3
+  "Value": 49.3,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1370,7 +1495,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 662,
   "GeoAreaName": "Saint Lucia",
-  "Value": 49.4
+  "Value": 49.4,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1380,7 +1506,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 670,
   "GeoAreaName": "Saint Vincent and the Grenadines",
-  "Value": 49.4
+  "Value": 49.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -1390,7 +1517,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 29,
   "GeoAreaName": "Caribbean",
-  "Value": 49.6
+  "Value": 49.6,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1400,7 +1528,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 702,
   "GeoAreaName": "Singapore",
-  "Value": 49.6
+  "Value": 49.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1410,7 +1539,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 740,
   "GeoAreaName": "Suriname",
-  "Value": 49.6
+  "Value": 49.6,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1420,7 +1550,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 196,
   "GeoAreaName": "Cyprus",
-  "Value": 49.7
+  "Value": 49.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1430,7 +1561,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 226,
   "GeoAreaName": "Equatorial Guinea",
-  "Value": 49.9
+  "Value": 49.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1440,7 +1572,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 738,
   "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
-  "Value": 50.2
+  "Value": 50.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1450,7 +1583,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 753,
   "GeoAreaName": "Eastern and South-Eastern Asia",
-  "Value": 50.7
+  "Value": 50.7,
+  "Height": 35
  },
  {
   "Goal": 10,
@@ -1460,7 +1594,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 202,
   "GeoAreaName": "Sub-Saharan Africa",
-  "Value": 50.7
+  "Value": 50.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1470,7 +1605,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 62,
   "GeoAreaName": "Central and Southern Asia",
-  "Value": 50.9
+  "Value": 50.9,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1480,7 +1616,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 470,
   "GeoAreaName": "Malta",
-  "Value": 50.9
+  "Value": 50.9,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1490,7 +1627,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 804,
   "GeoAreaName": "Ukraine",
-  "Value": 50.9
+  "Value": 50.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1500,7 +1638,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 96,
   "GeoAreaName": "Brunei Darussalam",
-  "Value": 51
+  "Value": 51,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1510,7 +1649,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 151,
   "GeoAreaName": "Eastern Europe",
-  "Value": 51
+  "Value": 51,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1520,7 +1660,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 112,
   "GeoAreaName": "Belarus",
-  "Value": 51.2
+  "Value": 51.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1530,7 +1671,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 61,
   "GeoAreaName": "Polynesia",
-  "Value": 51.3
+  "Value": 51.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1540,7 +1682,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 156,
   "GeoAreaName": "China",
-  "Value": 51.6
+  "Value": 51.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1550,7 +1693,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 100,
   "GeoAreaName": "Bulgaria",
-  "Value": 51.7
+  "Value": 51.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1560,7 +1704,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 34,
   "GeoAreaName": "Southern Asia",
-  "Value": 51.8
+  "Value": 51.8,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -1570,7 +1715,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 127,
   "GeoAreaName": "Southern Asia (excluding India)",
-  "Value": 51.8
+  "Value": 51.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1580,7 +1726,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 554,
   "GeoAreaName": "New Zealand",
-  "Value": 52.1
+  "Value": 52.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1590,7 +1737,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 643,
   "GeoAreaName": "Russian Federation",
-  "Value": 52.1
+  "Value": 52.1,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1600,7 +1748,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 518,
   "GeoAreaName": "Eastern Asia (excluding Japan)",
-  "Value": 52.2
+  "Value": 52.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1610,7 +1759,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 516,
   "GeoAreaName": "Namibia",
-  "Value": 52.5
+  "Value": 52.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1620,7 +1770,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 1,
   "GeoAreaName": "World",
-  "Value": 52.6
+  "Value": 52.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1630,7 +1781,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 440,
   "GeoAreaName": "Lithuania",
-  "Value": 52.7
+  "Value": 52.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1640,7 +1792,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 30,
   "GeoAreaName": "Eastern Asia",
-  "Value": 52.8
+  "Value": 52.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1650,7 +1803,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 578,
   "GeoAreaName": "Norway",
-  "Value": 52.9
+  "Value": 52.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1660,7 +1814,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 258,
   "GeoAreaName": "French Polynesia",
-  "Value": 53.2
+  "Value": 53.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1670,7 +1825,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 376,
   "GeoAreaName": "Israel",
-  "Value": 53.3
+  "Value": 53.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1680,7 +1836,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 32,
   "GeoAreaName": "Argentina",
-  "Value": 53.4
+  "Value": 53.4,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1690,7 +1847,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 170,
   "GeoAreaName": "Colombia",
-  "Value": 53.4
+  "Value": 53.4,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1700,7 +1858,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 703,
   "GeoAreaName": "Slovakia",
-  "Value": 53.4
+  "Value": 53.4,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1710,7 +1869,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 188,
   "GeoAreaName": "Costa Rica",
-  "Value": 53.5
+  "Value": 53.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1720,7 +1880,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 316,
   "GeoAreaName": "Guam",
-  "Value": 53.6
+  "Value": 53.6,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1730,7 +1891,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 57,
   "GeoAreaName": "Micronesia",
-  "Value": 53.6
+  "Value": 53.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1740,7 +1902,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 834,
   "GeoAreaName": "United Republic of Tanzania",
-  "Value": 54
+  "Value": 54,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -1750,7 +1913,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 344,
   "GeoAreaName": "China, Hong Kong Special Administrative Region",
-  "Value": 54.1
+  "Value": 54.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1760,7 +1924,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 388,
   "GeoAreaName": "Jamaica",
-  "Value": 54.3
+  "Value": 54.3,
+  "Height": 15
  },
  {
   "Goal": 10,
@@ -1770,7 +1935,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 540,
   "GeoAreaName": "New Caledonia",
-  "Value": 54.3
+  "Value": 54.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1780,7 +1946,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 246,
   "GeoAreaName": "Finland",
-  "Value": 54.6
+  "Value": 54.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1790,7 +1957,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 154,
   "GeoAreaName": "Northern Europe",
-  "Value": 54.7
+  "Value": 54.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1800,7 +1968,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 752,
   "GeoAreaName": "Sweden",
-  "Value": 54.7
+  "Value": 54.7,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1810,7 +1979,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 620,
   "GeoAreaName": "Portugal",
-  "Value": 55
+  "Value": 55,
+  "Height": 25
  },
  {
   "Goal": 10,
@@ -1820,7 +1990,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 18,
   "GeoAreaName": "Southern Africa",
-  "Value": 55
+  "Value": 55,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1830,7 +2001,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 218,
   "GeoAreaName": "Ecuador",
-  "Value": 55.1
+  "Value": 55.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1840,7 +2012,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 268,
   "GeoAreaName": "Georgia",
-  "Value": 55.3
+  "Value": 55.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1850,7 +2023,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 5,
   "GeoAreaName": "South America",
-  "Value": 55.3
+  "Value": 55.3,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1860,7 +2034,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 19,
   "GeoAreaName": "Americas",
-  "Value": 55.5
+  "Value": 55.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -1870,7 +2045,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 710,
   "GeoAreaName": "South Africa",
-  "Value": 55.6
+  "Value": 55.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1880,7 +2056,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 223,
   "GeoAreaName": "Eastern Asia (excluding Japan and China)",
-  "Value": 55.7
+  "Value": 55.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -1890,7 +2067,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 68,
   "GeoAreaName": "Bolivia (Plurinational State of)",
-  "Value": 55.8
+  "Value": 55.8,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1900,7 +2078,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 442,
   "GeoAreaName": "Luxembourg",
-  "Value": 55.8
+  "Value": 55.8,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -1910,7 +2089,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 858,
   "GeoAreaName": "Uruguay",
-  "Value": 55.8
+  "Value": 55.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -1920,7 +2100,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 300,
   "GeoAreaName": "Greece",
-  "Value": 55.9
+  "Value": 55.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -1930,7 +2111,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 356,
   "GeoAreaName": "India",
-  "Value": 56
+  "Value": 56,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1940,7 +2122,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 11,
   "GeoAreaName": "Western Africa",
-  "Value": 56
+  "Value": 56,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -1950,7 +2133,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 830,
   "GeoAreaName": "Channel Islands",
-  "Value": 56.1
+  "Value": 56.1,
+  "Height": 10
  },
  {
   "Goal": 10,
@@ -1960,7 +2144,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 392,
   "GeoAreaName": "Japan",
-  "Value": 56.1
+  "Value": 56.1,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1970,7 +2155,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 512,
   "GeoAreaName": "Oman",
-  "Value": 56.1
+  "Value": 56.1,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -1980,7 +2166,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 208,
   "GeoAreaName": "Denmark",
-  "Value": 56.2
+  "Value": 56.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -1990,7 +2177,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 203,
   "GeoAreaName": "Czechia",
-  "Value": 56.4
+  "Value": 56.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -2000,7 +2188,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 150,
   "GeoAreaName": "Europe",
-  "Value": 57
+  "Value": 57,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -2010,7 +2199,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 428,
   "GeoAreaName": "Latvia",
-  "Value": 57
+  "Value": 57,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -2020,7 +2210,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 724,
   "GeoAreaName": "Spain",
-  "Value": 57.3
+  "Value": 57.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2030,17 +2221,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 826,
   "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
-  "Value": 57.4
- },
- {
-  "Goal": 10,
-  "Target": 10.4,
-  "Indicator": "10.4.1",
-  "SeriesCode": "SL_EMP_GTOTL",
-  "SeriesDescription": "Labour share of GDP (%)",
-  "GeoAreaCode": 514,
-  "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
-  "Value": 57.5
+  "Value": 57.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -2050,7 +2232,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 513,
   "GeoAreaName": "Europe and Northern America",
-  "Value": 57.6
+  "Value": 57.6,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -2060,7 +2243,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 9,
   "GeoAreaName": "Oceania",
-  "Value": 57.6
+  "Value": 57.6,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -2070,7 +2254,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 191,
   "GeoAreaName": "Croatia",
-  "Value": 57.8
+  "Value": 57.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -2080,7 +2265,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 705,
   "GeoAreaName": "Slovenia",
-  "Value": 58
+  "Value": 58,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -2090,7 +2276,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 840,
   "GeoAreaName": "United States of America",
-  "Value": 58.2
+  "Value": 58.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -2100,7 +2287,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 233,
   "GeoAreaName": "Estonia",
-  "Value": 58.3
+  "Value": 58.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2110,7 +2298,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 508,
   "GeoAreaName": "Mozambique",
-  "Value": 58.3
+  "Value": 58.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2120,7 +2309,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 52,
   "GeoAreaName": "Barbados",
-  "Value": 58.4
+  "Value": 58.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -2130,7 +2320,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 21,
   "GeoAreaName": "Northern America",
-  "Value": 58.4
+  "Value": 58.4,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -2140,7 +2331,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 630,
   "GeoAreaName": "Puerto Rico",
-  "Value": 58.4
+  "Value": 58.4,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -2150,7 +2342,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 53,
   "GeoAreaName": "Australia and New Zealand",
-  "Value": 58.5
+  "Value": 58.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -2160,7 +2353,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 410,
   "GeoAreaName": "Republic of Korea",
-  "Value": 58.5
+  "Value": 58.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -2170,7 +2364,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 44,
   "GeoAreaName": "Bahamas",
-  "Value": 58.6
+  "Value": 58.6,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2180,7 +2375,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 39,
   "GeoAreaName": "Southern Europe",
-  "Value": 58.6
+  "Value": 58.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -2190,7 +2386,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 850,
   "GeoAreaName": "United States Virgin Islands",
-  "Value": 58.6
+  "Value": 58.6,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -2200,7 +2397,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 40,
   "GeoAreaName": "Austria",
-  "Value": 59.2
+  "Value": 59.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -2210,7 +2408,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 250,
   "GeoAreaName": "France",
-  "Value": 59.3
+  "Value": 59.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2220,7 +2419,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 36,
   "GeoAreaName": "Australia",
-  "Value": 59.6
+  "Value": 59.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -2230,7 +2430,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 124,
   "GeoAreaName": "Canada",
-  "Value": 60.8
+  "Value": 60.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -2240,7 +2441,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 352,
   "GeoAreaName": "Iceland",
-  "Value": 61.3
+  "Value": 61.3,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2250,7 +2452,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 76,
   "GeoAreaName": "Brazil",
-  "Value": 61.4
+  "Value": 61.4,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -2260,7 +2463,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 528,
   "GeoAreaName": "Netherlands",
-  "Value": 61.5
+  "Value": 61.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -2270,7 +2474,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 340,
   "GeoAreaName": "Honduras",
-  "Value": 61.7
+  "Value": 61.7,
+  "Height": 70
  },
  {
   "Goal": 10,
@@ -2280,7 +2485,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 380,
   "GeoAreaName": "Italy",
-  "Value": 61.8
+  "Value": 61.8,
+  "Height": 40
  },
  {
   "Goal": 10,
@@ -2290,7 +2496,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 780,
   "GeoAreaName": "Trinidad and Tobago",
-  "Value": 61.8
+  "Value": 61.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -2300,7 +2507,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 56,
   "GeoAreaName": "Belgium",
-  "Value": 61.9
+  "Value": 61.9,
+  "Height": 30
  },
  {
   "Goal": 10,
@@ -2310,7 +2518,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 548,
   "GeoAreaName": "Vanuatu",
-  "Value": 61.9
+  "Value": 61.9,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -2320,7 +2529,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 155,
   "GeoAreaName": "Western Europe",
-  "Value": 61.9
+  "Value": 61.9,
+  "Height": 90
  },
  {
   "Goal": 10,
@@ -2330,7 +2540,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 152,
   "GeoAreaName": "Chile",
-  "Value": 62.5
+  "Value": 62.5,
+  "Height": 50
  },
  {
   "Goal": 10,
@@ -2340,7 +2551,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 276,
   "GeoAreaName": "Germany",
-  "Value": 63.2
+  "Value": 63.2,
+  "Height": 20
  },
  {
   "Goal": 10,
@@ -2350,7 +2562,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 566,
   "GeoAreaName": "Nigeria",
-  "Value": 65.6
+  "Value": 65.6,
+  "Height": 60
  },
  {
   "Goal": 10,
@@ -2360,7 +2573,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 756,
   "GeoAreaName": "Switzerland",
-  "Value": 68.8
+  "Value": 68.8,
+  "Height": 80
  },
  {
   "Goal": 10,
@@ -2370,7 +2584,8 @@
   "SeriesDescription": "Labour share of GDP (%)",
   "GeoAreaCode": 426,
   "GeoAreaName": "Lesotho",
-  "Value": 69.4
+  "Value": 69.4,
+  "Height": 40
  }
 ]
 }
