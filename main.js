@@ -1,5 +1,6 @@
 /*global d3*/
 /*global allPlaces*/
+/*global chart*/
 
 //Get Data from Json File and check the objects available
 
@@ -8,6 +9,7 @@ let allPlaces = [];
 d3.json('data.json').then(function(data){
   unesco = data;
   analyzeData();
+
   console.log(unesco);
 });
 
@@ -17,7 +19,7 @@ function analyzeData(){
   unesco.forEach(function(p){
     let countryName =p.GeoAreaName;
     let value = p.Value;
-    let height =p.Height;
+    let height =p.GeoAreaCode;
     
     allPlaces.push({
     country: countryName,
@@ -27,10 +29,9 @@ function analyzeData(){
   } 
 )} console.log(allPlaces);
 
-function displayData(){
 
   // define dimensions and margins for the graphic
-  const margin = ({top: 100, right: 50, bottom: 100, left: 80});
+  const margin = ({top: 50, right: 50, bottom: 50, left: 80});
   const width = window.innerWidth;
   const height = window.innerHeight;
 
@@ -42,26 +43,28 @@ function displayData(){
 
   // xScale corresponds with country names
   const xScale = d3.scaleBand()
-                  .domain([10,70])
-                .range([margin.left, width - margin.right]);
+                  .domain([10,20,30,40,50,60,70])
+                .range([margin.left, width - margin.right +100]);
 
   // create an svg container from scratch
   const svg = d3.select('body')
                 .append('svg')
                 .attr('width', width)
-                .attr('height', height)
+                .attr('height', height);
 
-  // attach a graphic element, and append circle to it
-  svg.append('g')
-      .selectAll('circle')
-      .data(allPlaces)
-      .attr('cx', function(d){return xScale(d.value) })
-      .attr('cy', function(d){return yScale(d.height) })
-      .attr('height', function(d){return yScale(0)-yScale(d.count) })
-      .attr('width', function(d){return xScale.bandwidth() - 2 });
-      
+ 
+ // attach a graphic element, and append circle to it
+ svg.append('g')
+     .selectAll('circle')
+     .data(allPlaces)
+     .join('circle')
+     .attr('cx', function(d){return xScale(d.labourShare) })
+     .attr('cy', function(d){return yScale(d.height) })
+     .attr('r', function(d){return yScale(0)-yScale(d.count) });
+     //.attr('width', function(d){return xScale.bandwidth() - 2 });
+     //.style('fill', function(d) {return sequentialScale(d.count);});
 
-
+  
   // AXES
 
   // Y Axis
@@ -91,5 +94,7 @@ function displayData(){
     .attr('x', margin.left)
     .attr('fill', 'black')
     .attr('text-anchor', 'start')
-    .text('Labour Share of GDP');}
+    .text('Labour Share of GDP');
+    //}
+  
    
