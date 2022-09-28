@@ -40,3 +40,25 @@ The data is available from 2004-19, using the filter the use can switch the year
 the viz. showing the GeoAreaName on the screen for 5 seconds and will change their position each time.
 
 Refer to excel for explanation:  [SL_EMP_GTOTL Data.xlsx](https://github.com/asadahmadk/asadahmadk/files/9603517/SL_EMP_GTOTL.Data.xlsx)
+
+After the discussions and feedback this prototype was updated
+
+<img width="804" alt="Screen Shot 2022-09-26 at 12 51 30 PM" src="https://user-images.githubusercontent.com/109235609/192692479-1e0a132d-f4bb-43b1-8703-fd39e77bb3f5.png">
+
+During the process of coding multiple hurdles were faced. The process was as following:
+
+1. Downloaded Data from UN Data Portal
+
+2. Cleaned the data on Excel
+
+3. Converted to JSON to make it readable in cloud9
+
+4. When Cloud9 didn’t respond shifted to observable to create this
+
+5. For background moved to Illustrator
+
+I found this process to be a little messy and all over the place. Finally through observable the entire the scatter plot was created as a low fidelity prototype.
+
+<img width="859" alt="Screen Shot 2022-09-27 at 10 44 50 AM" src="https://user-images.githubusercontent.com/109235609/192692746-546ebe34-8016-4491-897b-6bebf4275f82.png">
+
+
