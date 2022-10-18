@@ -13,6 +13,8 @@ Donut Graphs are constructed depicting the impact from low to high. So far I hav
 
 
 **Whats Next?**
-Add interactive window/images of SDG 
-Do CSS styling
-Need to separate js and html files
+1. Add interactive window/images of SDG 
+
+2. Do CSS styling
+
+3. Need to separate js and html files
