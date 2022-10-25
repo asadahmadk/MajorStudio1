@@ -1,4 +1,4 @@
-For my qualitative data project I have decided to visualization the impact of 17 SDGs by 2030.
+For my qualitative data project I have decided to visualization the impact of 17 SDGs by 2030. This project will be completed after 2nd iteration. Below are the description for each iteration and explains the process.
 
 **Sketch**
 
@@ -18,3 +18,22 @@ Donut Graphs are constructed depicting the impact from low to high. So far I hav
 2. Do CSS styling
 
 3. Need to separate js and html files
+
+
+**Second Iteration**
+
+- Focus on Design on Figma and styling in CSS
+- Introduce Interactivity
+- Rotation of Arrows
+
+Design prototupe can be found on Figma:https://www.figma.com/file/0wMnpYtp0bjkC10mRQAqE2/Qualitative-Data?node-id=0%3A1
+
+For code prototype the screenshot is below:
+
+<img width="1440" alt="Screen Shot 2022-10-25 at 9 55 31 AM" src="https://user-images.githubusercontent.com/109235609/197792864-7ba679fd-289d-428a-93a3-8f95f3806bf9.png">
+
+
+Next steps:
+- Alignment of text
+- Code arrows
+- Introduce Interactivity
