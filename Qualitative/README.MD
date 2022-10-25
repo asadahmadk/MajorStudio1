@@ -35,5 +35,5 @@ For code prototype the screenshot is below:
 
 Next steps:
 - Alignment of text
-- Code arrows
-- Introduce Interactivity
+- Make the arrow visible on top of the donut graphs
+- Add Interactivity through coding
