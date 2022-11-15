@@ -1,6 +1,6 @@
 There are 3 options I want to work on:
-1. Improving my project 1 - Labour Share of GDP
-
+1. *Improving my project 1 - Labour Share of GDP*
+Allow the users to see 
 ![IMG_1189](https://user-images.githubusercontent.com/109235609/201940695-8a2f2353-f655-414d-9dbf-6c8894d13a6f.png)
 
 2. How greenhouse gases affect the climate change
