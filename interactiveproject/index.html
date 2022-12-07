@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Carbon Emission Calculator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <section class='panel 1'>
+    <div class='split left'>
+      <div class='introduction-image'>
+        <img src="Introduction Picture.webp" width="600" height="600" <br />
+        <p>Photo Illustration by Andrea D'Aquino</p>
+      </div>
+    </div>
+    <div class='split right'>
+      <div class='introduction'>
+        <h1><b>
+            How are you contributing towards climate change?
+
+          </b>
+        </h1>
+        <h2>A quick guide to calculate your carbon footprint at home</h2>
+      </div>
+    </div>
+  </section>
+
+  <section class='panel 2'>
+    <div class='split left'>
+      <div class='cf'>
+        <h1>
+          What is carbon footprint?
+        </h1>
+        <p>
+          A carbon footprint is the total amount of greenhouse gas emissions that come from the production, use and
+          end-of-life of a product or service. It includes carbon dioxide — the gas most commonly emitted by humans —
+          and
+          others, including methane, nitrous oxide, and fluorinated gases, which trap heat in the atmosphere, causing
+          global
+          warming. Usually, the bulk of an individual’s carbon footprint will come from transportation, housing and
+          food.
+        </p>
+      </div>
+    </div>
+
+    <div class='split right'>
+      <div class='about'>
+        <h2>
+          Factors affecting carbon footprints
+        </h2>
+        <img src="carbon-footprint-what-made-of-calculating.jpg" width="400" height="600">
+      </div>
+    </div>
+
+  </section>
+
+
+
+  <section class='panel 3'>
+    <div class='calculatorintro'>
+      <h1>Calculate your carbon footprint in three steps using <br />
+        Alexandra Shimo Barry’s <br />
+        The Environment Equation </h1>
+    </div>
+
+    <div class='calculator'>
+      <div id='step1'>
+        <h2>Step 1 - Enter your monthly bills amount</h2>
+        <h3> Enter your Electric Bill</h3>
+        <img src="electricity-bill-icon.svg" width="40" height="50" /> <input id='electricBill' type='number' />
+
+        <h3> Enter your Oil Bill</h3>
+        <img src="engine-oil-icon.svg" width="40" height="50" />
+        <input id='oilBill' type='number' />
+      </div>
+      <br />
+
+
+
+      <div id='step2'>
+        <h2>Step 2 - Enter your travel details</h2>
+        <h3> Enter your Vehicle Mileage</h3>
+        <img src="mileage.svg" width="40" height="50" />
+        <input id='mileage' type='number' />
+
+        <h3>How often do you travel by air?</h3>
+        <h4> Flights less than four hours</h4>
+        <img src="plane-icon.svg" width="40" height="60" />
+        <input id='lessthan4' type='number' placeholder='less than 4 hours' />
+
+        <input id='morethan4' type='number' placeholder='more than 4 hours' />
+
+        <!-- <h4> Flights more than four hours</h4>
+        <img src="longtravel.png" width="40" height="50" />
+        <input id='morethan4' type='number' /> -->
+      </div>
+      <div id='step3'>
+        <h2>Step 3 - Do you recycle the following</h2>
+        <h4> Newspapers</h4>
+        <img src="newspaper.svg" width="40" height="50" />
+        <label>
+          <input type='radio' name='newspaper' input id='newspaperYes'>
+          Yes
+        </label>
+        <label>
+          <input type='radio' name='newspaper' input id=newspaperNo>
+          No
+        </label>
+        <br />
+
+        <h4> Aluminium</h4>
+        <img src="Tin-can.svg" width="40" height="50" />
+        <label>
+          <input type='radio' name='aluminium' input id=aluminiumYes>
+          Yes
+        </label>
+        <label>
+          <input type='radio' name='aluminium' input id=aluminiumNo>
+          No
+        </label>
+
+
+        <br />
+        <br />
+      </div>
+    </div>
+  </section>
+
+
+  <section class='panel result'>
+    <div class='results'>
+      <button class='btn-secondary rounded-sm' onclick='calcCO2()'>Calculate Carbon Footprint</button>
+      <br />
+      <!-- <button type="reset" id="reset" onclick="resetAnswer()">Reset</button>
+    <br /> -->
+    </div>
+    <br />
+    <div class='container text-center'>
+      <h2>Your Carbon Footprint is:</h2>
+      <h1 id='result' class='bg-success rounded-lg'></h1>
+      <!-- <h3>g CO2e / mile</h3> -->
+      <br />
+
+    </div>
+
+  </section>
+
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="script.js"></script>
+  <!-- <script src="normalcurve.js"></script> -->
+  <script>http://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js</script>
+
+</body>
+
+</html>
