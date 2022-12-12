@@ -12,10 +12,8 @@ After 3 iterations, the idesign was finalized to make it useable and understanda
 
 Donut Graphs are constructed depicting the impact from low to high. So far I have been able to code the donut graphs and added some description in the html file. 
 
-<img width="1432" alt="Screen Shot 2022-10-18 at 10 09 18 AM" src="https://user-images.githubusercontent.com/109235609/196454170-8e71606b-544e-4a8e-b4f3-c1bc76e97964.png">
+<img width="1057" alt="Screenshot 2022-12-12 at 12 41 31 AM" src="https://user-images.githubusercontent.com/109235609/206968966-14cad9dd-bd0e-481d-be1a-49e53cd28c03.png">
 
 
 **Demo**
 https://drive.google.com/file/d/1voYJtSFyQhuCncoypOpWKjeBx7jKXHds/view?usp=share_link
-
-<img width="1057" alt="Screenshot 2022-12-12 at 12 41 31 AM" src="https://user-images.githubusercontent.com/109235609/206968966-14cad9dd-bd0e-481d-be1a-49e53cd28c03.png">
