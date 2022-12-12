@@ -16,4 +16,5 @@ Donut Graphs are constructed depicting the impact from low to high. So far I hav
 
 
 **Demo**
-https://www.figma.com/proto/GNa6LuaPwVrhDSpW3Lw5ZT/Qual-Video?node-id=71%3A2&starting-point-node-id=71%3A2&scaling=scale-down
+https://drive.google.com/file/d/1voYJtSFyQhuCncoypOpWKjeBx7jKXHds/view?usp=share_link
+
