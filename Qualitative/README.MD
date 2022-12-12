@@ -18,3 +18,4 @@ Donut Graphs are constructed depicting the impact from low to high. So far I hav
 **Demo**
 https://drive.google.com/file/d/1voYJtSFyQhuCncoypOpWKjeBx7jKXHds/view?usp=share_link
 
+<img width="1057" alt="Screenshot 2022-12-12 at 12 41 31 AM" src="https://user-images.githubusercontent.com/109235609/206968966-14cad9dd-bd0e-481d-be1a-49e53cd28c03.png">
