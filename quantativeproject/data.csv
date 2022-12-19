@@ -7,7 +7,6 @@ Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaName,Value,GeoAreaCode
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Australia,59.6,36
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Austria,59.2,40
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Azerbaijan,48.5,31
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Bahamas,58.6,44
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Bahrain,30.3,48
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Bangladesh,41.1,50
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Belgium,61.9,56
@@ -90,7 +89,6 @@ Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaName,Value,GeoAreaCode
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Oman,56.1,512
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Pakistan,41.5,586
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Palestine,42.6,275
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Panama,34.1,591
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Papua New Guinea,29.6,598
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Paraguay,46.1,600
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Peru,46.4,604
@@ -102,23 +100,19 @@ Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaName,Value,GeoAreaCode
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Romania,43.9,642
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Rwanda,40.1,646
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Saint Lucia,49.4,662
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Samoa,40.2,882
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Senegal,40.3,686
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Serbia,49.3,688
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Singapore,49.6,702
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Slovakia,53.4,703
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Slovenia,58,705
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),South Africa,55.6,710
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Spain,57.3,724
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Sri Lanka,38.9,144
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Sudan,39.9,729
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Suriname,49.6,740
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Sweden,54.7,752
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Switzerland,68.8,756
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Tajikistan,21.2,762
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Thailand,45.7,764
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Togo,39.3,768
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Tonga,46.2,776
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Tunisia,47.7,788
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),UAE,36.7,784
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Uganda,41.1,800
