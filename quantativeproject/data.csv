@@ -57,7 +57,6 @@ Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaName,Value,Pop
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Zimbabwe,42.4,15354608
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Philippines,42.5,55380804
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Cuba,42.6,11316697
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Palestine,42.6,#N/A
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Egypt,42.7,55618671
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Malaysia,43.2,32804020
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Maldives,43.8,504508
@@ -87,7 +86,6 @@ Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaName,Value,Pop
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Lebanon,49.1,5781907
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Poland,49.3,37965475
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Serbia,49.3,6945235
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Saint Lucia,49.4,#N/A
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Singapore,49.6,5703569
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Suriname,49.6,600301
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Cyprus,49.7,1228836
@@ -129,7 +127,6 @@ Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaName,Value,Pop
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Mozambique,58.3,30285595
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Barbados,58.4,280180
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Puerto Rico,58.4,3193694
-10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Bahamas,58.6,#N/A
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Austria,59.2,8879920
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),France,59.3,52388001
 10,10.4,10.4.1,SL_EMP_GTOTL,Labour share of GDP (%),Australia,59.6,25340217
